@@ -1,7 +1,7 @@
 # Standup [Work In Progress]
 
 The purpose of standup is to align as a team on the goals for the day. The
-meeting should be considered "quick" and everyone participating should leave
+meeting should be considered "quick" (less than 10 minutes) and everyone participating should leave
 with a clear understanding of what the team goal is as well as their contribution
 to it. 
 
